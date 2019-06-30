@@ -27,7 +27,7 @@ ________________________________________________________________________________
 Group project for my university's Software Engeneering course. (University of São Paulo, Brazil).
 It's a donation web platform built using Django and Bootstrap. 
 I was responsible for creating the front-end and some parts of the backend.
-Notable contributors: @volkana (backend), @vitorap (Scrum-master)
+Notable contributors: @volkana (main backend developer), @vitorap (Scrum-master)
 
 ### How to install
 1. install Python 3
