@@ -16,7 +16,7 @@ Outros contribuintes notáveis: @volkana (principal desenvolvedora do backend)
 1. Clonar o GIT na maquina
 
 ### Como rodar
-1. Rodar o terminal na pasta /tindoar (onde se encontra o `manage.py`
+1. Rodar o terminal na pasta /tindoar (onde se encontra o `manage.py`)
 1. Executar o comando `python manage.py runserver` para windows ou `python3 manage.py runserver` para linux ou mac
 1.  Abrir o endereço http://127.0.0.1:8000/ no navegador.
 
@@ -37,5 +37,5 @@ Notable contributors: @volkana (main backend developer), @vitorap (Scrum-master)
 
 ### How to Run
 1. open terminal in tindoar-master folder (where `manage.py` exists)
-1. execut `python manage.py runserver` for windows or `python3 manage.py runserver` for linux or mac
+1. execute `python manage.py runserver` for windows or `python3 manage.py runserver` for linux or mac
 1.  Open in web browser: http://127.0.0.1:8000/
